@@ -13,6 +13,9 @@
 
 
 ```sh
+git clone https://github.com/guowenfh/redux-saga-thunk-demo.git
+cd redux-saga-thunk-demo
+npm i         # cnpm i
 npm run start # 启动项目开发
 npm run build # 打包
 ```
